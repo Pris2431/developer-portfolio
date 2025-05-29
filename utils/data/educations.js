@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Diploma of Computer Engineering",
+    duration: "2023 - Present",
+    institution: "Singapore Polytechnic",
+    leadership: "Secretary of SP Makerss",
+    leadership2:  "Project Coordinator of SP Robotics Club", 
+    leadership3: "Concert Master of SP Chinese Orchestra",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
-  },
-  {
-    id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Singapore-Cambridge O-Levels Certificate of Education",
+    duration: "2019 - 2022",
+    institution: "Yio Chu Kang Secondary School",
+    leadership: "President of YCKSS Drama Club",
+    leadership2: "Peer Support Ambassador",
+    leadership3: " "
   }
 ]
