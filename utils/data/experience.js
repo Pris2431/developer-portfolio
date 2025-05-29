@@ -2,7 +2,7 @@ export const experiences = [
   {
     id: 1,
     title: 'Coding and Robotics Instructor',
-    company: "Comuthink Singapore",
+    company: "Computhink Singapore",
     duration: "(April 2025 - Present)"
   },
   {
